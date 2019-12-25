@@ -1,0 +1,14 @@
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csprojAssemblyReference.cache
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\obj\Debug\MainWindow.g.cs
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\obj\Debug\App.g.cs
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket_MarkupCompile.cache
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket_MarkupCompile.lref
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe.config
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\obj\Debug\MainWindow.baml
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.g.resources
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.Properties.Resources.resources
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.GenerateResource.cache
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.exe
+C:\Users\МакишевЕ\source\repos\ClientSocket\ClientSocket\obj\Debug\ClientSocket.pdb
